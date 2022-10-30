@@ -1,7 +1,7 @@
 This repository contains the code for our reinforcement-learning based two-stage model (RL-TSM) accepted by Transactions on Affective Computing.
-%\[[pdf](https://www.aclweb.org/anthology/2020.coling-main.18.pdf)\]:
+\[[pdf]()\]:
 
->Xinhong Chen, Qing Li, Zongxi Li, Haoran Xie, Fu Lee Wang, Jianping Wang. A Reinforcement Learning Based Two-Stage Model for Emotion Cause Pair Extraction. In Transactions on Affective Computing.
+>Xinhong Chen, Qing Li, Zongxi Li, Haoran Xie, Fu Lee Wang, Jianping Wang. A Reinforcement Learning Based Two-Stage Model for Emotion Cause Pair Extraction. To be published in Transactions on Affective Computing.
 
 Please cite our paper if you use this code.
 
